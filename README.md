@@ -1,0 +1,1 @@
+An API written in Rust. Based on the Luca Palmieri's book "Zero To Production In Rust". 
